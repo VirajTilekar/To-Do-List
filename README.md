@@ -8,8 +8,6 @@ Dependencies
  <b>Django</b> 
  to install django <code>$ pip install django</code>
  <br>
- <a href="https://www.geeksforgeeks.org/django-introduction-and-installation/">read more about installation</a>
- 
  
  <b>crispy_forms</b>
  
