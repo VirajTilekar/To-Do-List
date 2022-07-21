@@ -17,7 +17,7 @@ Dependencies
 Basic setup
 ------------
 
-<pre>$ git clone https://github.com/itsvinayak/todo.git </pre>
+<pre>$ git clone https://github.com/VirajTilekar/Todo-List.git </pre>
 <pre>$ cd todo</pre>
 <pre>$ python manage.py makemigrations && python manage.py migrate</pre>
 
