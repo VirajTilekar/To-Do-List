@@ -5,11 +5,11 @@ A simple Todo-List web application made using Python-Django and HTML
 Dependencies
 ------------
 
- <b>Django</b> 
+ <b>Django:</b> 
  to install django <code>$ pip install django</code>
  <br>
  
- <b>crispy_forms</b>
+ <b>crispy_forms:</b>
  
  to install crispy forms <code>$ pip install --upgrade django-crispy-forms </code>
   <br/>
